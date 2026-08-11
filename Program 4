@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Details</title>
+</head>
+<body>
+
+    <h2>Student Details</h2>
+
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Register No</th>
+            <th>Course</th>
+        </tr>
+        <tr>
+            <td>Arun</td>
+            <td>101</td>
+            <td>BCA</td>
+        </tr>
+        <tr>
+            <td>Priya</td>
+            <td>102</td>
+            <td>B.Sc CS</td>
+        </tr>
+    </table>
+
+</body>
+</html>
