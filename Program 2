@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Headings and Paragraphs</title>
+</head>
+<body>
+
+    <h1>My Webpage</h1>
+    <h2>About HTML</h2>
+
+    <p>HTML stands for HyperText Markup Language.</p>
+    <p>HTML is used to create webpages.<br>
+    It is easy to learn and use.</p>
+
+</body>
+</html>
