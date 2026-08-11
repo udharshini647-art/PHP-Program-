@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Formatting</title>
+</head>
+<body>
+
+    <p><b>Bold Text</b></p>
+    <p><i>Italic Text</i></p>
+    <p><u>Underlined Text</u></p>
+    <p>Water: H<sub>2</sub>O</p>
+    <p>Square: X<sup>2</sup></p>
+
+</body>
+</html>
